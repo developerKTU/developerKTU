@@ -13,7 +13,7 @@
 <br>
 <br>
 <div align="center" dir="auto">
-  <b>DataBase(SQL) 🗃️</b>
+  <b>DataBase 🗃️</b>
 </div>  
 <br>
 <div align="center" dir="auto">
