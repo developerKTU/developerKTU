@@ -8,11 +8,12 @@
   <img src="https://img.shields.io/badge/Java-teal"/>
   <img src="https://img.shields.io/badge/SpringFramework-darkgreen?style=flat&logo=Spring&logoColor=black"/>
   <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=flat&logo=Spring Boot&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring Data JPA-darkgreen"/>
 </div>
 <br>
 <br>
 <div align="center" dir="auto">
-  <b>DataBase 🗃️</b>
+  <b>DataBase(SQL) 🗃️</b>
 </div>  
 <br>
 <div align="center" dir="auto">
@@ -51,4 +52,6 @@
 <br>
 <div align="center" dir="auto">
   <img src="https://img.shields.io/badge/Baekjoon Online Judge-dimgrey"/>
+  <img src="https://img.shields.io/badge/JPA-cadetblue"/>
+  <img src="https://img.shields.io/badge/Hibernate-darkgoldenrod?style=flat&logo=Hibernate&logoColor=black"/>
 </div>
