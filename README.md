@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Java-teal"/>
   <img src="https://img.shields.io/badge/SpringFramework-darkgreen?style=flat&logo=Spring&logoColor=black"/>
   <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=flat&logo=Spring Boot&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Mybatis-black"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-darkgreen"/>
 </div>
 <br>
