@@ -14,7 +14,7 @@
 <br>
 <br>
 <div align="center" dir="auto">
-  <b>DataBase 🗃️</b>
+  <b>DATABASE 🗃️</b>
 </div>  
 <br>
 <div align="center" dir="auto">
@@ -48,7 +48,7 @@
 <br>
 <br>
 <div align="center" dir="auto">
-  <b>Study 📚</b>
+  <b>STUDY 📚</b>
 </div>  
 <br>
 <div align="center" dir="auto">
