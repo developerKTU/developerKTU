@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=flat&logo=Spring Boot&logoColor=black"/>
   <img src="https://img.shields.io/badge/Mybatis-black"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-darkgreen"/>
+  <img src="https://img.shields.io/badge/JPA Hibernate-darkgoldenrod?style=flat&logo=Hibernate&logoColor=black"/>
 </div>
 <br>
 <br>
@@ -54,7 +55,8 @@
 <div align="center" dir="auto">
   <img src="https://img.shields.io/badge/Baekjoon Online Judge-dimgrey"/>
   <img src="https://img.shields.io/badge/JPA-cadetblue"/>
-  <img src="https://img.shields.io/badge/Hibernate-darkgoldenrod?style=flat&logo=Hibernate&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JPA Hibernate-darkgoldenrod?style=flat&logo=Hibernate&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-darkred?style=flat&logo=Redis&logoColor=black%font=black"/>
 </div>
 <br>
 <br>
